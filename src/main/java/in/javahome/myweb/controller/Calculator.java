@@ -10,7 +10,8 @@ public class Calculator {
 	 * @return int
 	 */
 	public int add(int i, int j){
-		int temp = 100;
+		int temp = 200;
+		temp = 100;
 		return i+j;
 	}
 	public int multiply(int i, int j){
